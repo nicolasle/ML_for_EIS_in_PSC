@@ -1,4 +1,4 @@
-# Equivalent electrical circuit recognition forimpedance spectroscopy data via machine learning
+# Equivalent electrical circuit recognition for impedance spectroscopy data via machine learning
 
 This repositery contains the dataset used to train machine learning algorithms to recognize the equivalent model circuit able to fit a given Nyquist plot.
 
